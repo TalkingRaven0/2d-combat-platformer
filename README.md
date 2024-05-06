@@ -1,5 +1,5 @@
 > [!TIP]
-> This contains reusable components will somewhat well defiend dependencies for jumpstarting a 2D platformer project
+> This contains reusable components with somewhat well defiend dependencies for jumpstarting a 2D platformer project
 
 # 2D Platformer:
     Simple 2D game using an asset pack for practicing the programming side of the development of 2D games.
